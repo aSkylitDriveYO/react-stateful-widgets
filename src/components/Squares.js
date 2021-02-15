@@ -10,7 +10,7 @@ One is used as the source of truth to render the squares, and the other
 so that the component knows which square is currently active.
 
 Only one square (or none) can be active at any given point.
-
+//
 Find comments below to help you along.
 */
 
